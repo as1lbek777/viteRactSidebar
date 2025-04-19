@@ -10,6 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gsap": "^3.12.7",
+    "gsap-trial": "^3.12.7",
+    "lucide-react": "^0.501.0",
+    "motion": "^12.7.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
