@@ -28,10 +28,10 @@
 }
 
 .modal-card input{
-  padding-left: -50px;
   padding: 10px 30px;
-  margin-block-end: 20px;
+  margin-block-end: 10px;
   outline: none;
+  font-size: 1.2rem;
   border-radius: 5px;
   border: none;
   border-bottom: 2px solid black;
